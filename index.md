@@ -12,3 +12,9 @@
 ``` typescript
 const myString: string = "Hello, world!";
 ```
+
+## Wow a list of tasks
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
