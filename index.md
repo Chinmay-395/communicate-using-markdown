@@ -18,3 +18,4 @@ const myString: string = "Hello, world!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+- [ ] Intro to communicate-using-markdown
